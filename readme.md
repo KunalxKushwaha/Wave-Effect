@@ -1,2 +1,2 @@
 # Spiral Effect
-Just a practice projecy
+Just a practice project
