@@ -1,2 +1,2 @@
 # Spiral Effect
-Just a practice project made by using pure HTML
+Just a practice project made by using pure HTML, 
